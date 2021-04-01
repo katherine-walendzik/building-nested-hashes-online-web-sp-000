@@ -13,6 +13,4 @@ epic_tragedy = {
       :heroine_friends => []
    }
 }
-
-  
 end
